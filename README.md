@@ -1,4 +1,4 @@
-# GO ZERO Ice Cream Sales Analysis
+# GO ZERO  Sales Analysis
 
 ## Project Background
 
