@@ -18,7 +18,21 @@ Insights and recommendations are provided across the following areas:
 All analysis and visualizations were performed using **Microsoft Excel**.
 
 ---
+## Dashboard Access
 
+The interactive Excel dashboard used for this analysis can be accessed in the repository:
+
+**File:** `gozero_sales_dataset_potive_revenue`
+
+The dashboard allows users to explore sales performance across:
+
+- Products and flavors
+- Sales platforms
+- Cities
+- Monthly demand trends
+- Customer ratings
+
+It includes interactive charts and KPI metrics that update dynamically based on filters.**
 ## Data Structure & Initial Checks
 
 The dataset contains **order-level sales records** across multiple cities and delivery platforms over a one-year period.
